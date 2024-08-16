@@ -1,2 +1,2 @@
-Name:Manara Benali
-Number: 223445
+Name: student's name
+Number: student's number
